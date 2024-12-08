@@ -27,3 +27,18 @@ body {
   text-align: center;
   cursor: pointer;
 }
+
+button#reset {
+  background-color: #2000ef;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 20px 0;
+}
+
+button#reset:hover {
+  background-color: #000049;
+}
+
